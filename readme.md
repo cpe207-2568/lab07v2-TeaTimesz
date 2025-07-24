@@ -7,7 +7,7 @@
 
 ชื่อ-สกุล :รวิภาส มากเพ็ง
 
-GitHub Page URL :
+GitHub Page URL :https://cpe207-2568.github.io/lab07v2-TeaTimesz/
 
 ---
 
